@@ -8,3 +8,4 @@
 
 * Voting2.sol (on going)
   * Devrait implémenter une solution en cas d'égalité et permettre à l'administrateur de relancer une phase de vote entre les propositions "gagnantes"
+  * Le restart est encore buggé, je poste tout de même ma solution vu l'heure tardive. L'idée sera la à défaut d'être opérationel :)
